@@ -1,0 +1,85 @@
+body{
+	background-color:black;
+	font-family:Cabin;
+}
+.card{
+    width:auto;
+    height:auto
+}
+.card img {
+    height:25%
+}
+
+.blockquote .display-4{
+	margin:2%;
+	color:#ff9900;
+	font-family:Lobster;
+}
+
+.blockquote .mb-0{
+	color:#aaa;
+}
+
+.tab-content .jumbotron{
+	background-color:#000 !important;
+}
+
+#searchBtn{
+	width:100%;
+	border-radius:10%
+}
+
+.srch-search-results .container .mainrow .col-sm-12{
+	margin:2%;
+}
+
+.srch-search-results .container .mainrow img{
+	width:100%;
+}
+
+.srch-search-results .container .mainrow .col-8{
+	padding: 0% 0% 0% 5%;
+}
+
+.trackimage h5{
+	color:#f2f2f2d4;
+	text-align: center;
+    margin: 30% 0% 30% 0%;
+    text-transform: uppercase;
+    border: 1px solid #f3f3f3;
+    padding: 30% 20% 40% 15%;
+    border-radius: 50%;
+    font-family: Lobster;
+}
+
+.trackname{
+	color:#f2f2f2d4;
+	padding: 0% 1% 0% 6%;
+}
+
+.artistname{
+	color:#dddddd75;
+	padding: 0% 1% 0% 6%;
+}
+
+.trackname h5, .artistname h5{
+	font-size:14px !important;
+	margin-bottom: 1%;
+}
+
+.trackdetails{
+	padding: 0%;
+}
+
+.oi-share-boxed:empty:before {
+	color: #2e9c1ce8
+}
+
+.alert h5, .alert-success{
+	font-size: 14px;
+    text-align: center;
+}
+
+#menu2 .songdetails .col-sm-12{
+	margin: 5% auto 5% auto;
+}
